@@ -1,0 +1,52 @@
+{
+  "clients": [
+    {
+      "firstName": "Hossien",
+      "lastName": "Ashiq",
+      "address": "Kashmir",
+      "id": 1,
+      "appointments": [
+        "2023-12-15T18:30:00.000Z",
+        "2023-12-21T18:30:00.000Z",
+        "2023-12-09T09:14:00.000Z"
+      ]
+    },
+    {
+      "firstName": "Tsotobae",
+      "lastName": "Chibaba",
+      "address": "KenIya",
+      "id": 2,
+      "appointments": [
+        "2023-10-15T18:30:00.000Z",
+        "2023-11-29T18:30:00.000Z",
+        "2023-09-20T18:30:00.000Z"
+      ]
+    },
+    {
+      "firstName": "Pstekti",
+      "lastName": "Mpoffu",
+      "address": "Zimbabive",
+      "id": 3,
+      "appointments": [
+        "2023-12-15T18:30:00.000Z",
+        "2023-12-29T18:30:00.000Z",
+        "2023-12-20T18:30:00.000Z"
+      ]
+    },
+    {
+      "firstName": "Yawer",
+      "lastName": "Mushtaq",
+      "address": "AnantnAg",
+      "appointments": [
+        "2023-12-14T18:30:00.000Z",
+        "2023-12-15T06:30:00.000Z",
+        "2023-12-15T09:30:00.000Z",
+        "2023-12-21T09:30:00.000Z",
+        "2023-12-31T09:30:00.000Z",
+        "2024-01-13T09:30:00.000Z",
+        "2024-01-22T09:30:00.000Z"
+      ],
+      "id": 4
+    }
+  ]
+}
