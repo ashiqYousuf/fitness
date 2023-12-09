@@ -1,8 +1,17 @@
-# React + Vite
+## This is a simple application which performs CRUD on Clients stored in json.db file.
+## Also a client can have multiple appointments (Datetime fields)
+## The best thing about this repository is that everything is custom created from simple Buttons, Inputs, Headings to Modals, Table, Theads, Rows etc.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Guidelines to run this repo
 
-Currently, two official plugins are available:
+#### Clone this repo as: git clone https://github.com/ashiqYousuf/fitness.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### Cd into the directory as: cd fitness
+
+#### Install dependencies as:-  npm install
+
+#### Start the React Server as:- npm run dev
+
+#### Also I'm using Json Server for storing data so run Json server as:- npm run start
+
+
